@@ -1,3 +1,4 @@
 # SBSPS-Challenge-9974-Identifying-Patterns-and-Trends-in-Campus-Placement-Data-using-Machine-Learning
 Identifying Patterns and Trends in Campus Placement Data using Machine Learning
-[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="252e67e7-5246-4647-a095-9995c297b618" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white)https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white
+[IMB_DATA_SCIENCE](https://www.credly.com/badges/1a469cdc-62d6-4d28-8fe1-a5155fb27c73/public_url)
+[IMB_CLOUD](https://www.credly.com/badges/252e67e7-5246-4647-a095-9995c297b618/public_url)
